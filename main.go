@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/shengng325/clean-architecture/v2/common"
-	"github.com/shengng325/clean-architecture/v2/common/http"
-	"github.com/shengng325/clean-architecture/v2/controller"
-	"github.com/shengng325/clean-architecture/v2/db/mock"
-	"github.com/shengng325/clean-architecture/v2/service"
+	"architecture-poc/common"
+	"architecture-poc/common/http"
+	"architecture-poc/controller"
+	"architecture-poc/db/mock"
+	"architecture-poc/service"
 )
 
 const port int = 8888

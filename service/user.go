@@ -3,9 +3,9 @@ package service
 import (
 	"fmt"
 
-	"github.com/shengng325/clean-architecture/v2/db"
-	"github.com/shengng325/clean-architecture/v2/dto"
-	"github.com/shengng325/clean-architecture/v2/entity"
+	"architecture-poc/db"
+	"architecture-poc/dto"
+	"architecture-poc/entity"
 )
 
 type userService struct {

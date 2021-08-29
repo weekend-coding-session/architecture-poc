@@ -3,10 +3,10 @@ package mock
 import (
 	"fmt"
 
-	"github.com/shengng325/clean-architecture/v2/db"
-	"github.com/shengng325/clean-architecture/v2/dto"
-	"github.com/shengng325/clean-architecture/v2/entity"
-	"github.com/shengng325/clean-architecture/v2/model"
+	"architecture-poc/db"
+	"architecture-poc/dto"
+	"architecture-poc/entity"
+	"architecture-poc/model"
 )
 
 type SpotDB struct {

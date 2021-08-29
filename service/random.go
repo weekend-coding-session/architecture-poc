@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/shengng325/clean-architecture/v2/common"
-	"github.com/shengng325/clean-architecture/v2/entity"
-	"github.com/shengng325/clean-architecture/v2/model"
+	"architecture-poc/common"
+	"architecture-poc/entity"
+	"architecture-poc/model"
 )
 
 type randomService struct {

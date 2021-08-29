@@ -1,8 +1,8 @@
 package db
 
 import (
-	"github.com/shengng325/clean-architecture/v2/dto"
-	"github.com/shengng325/clean-architecture/v2/entity"
+	"architecture-poc/dto"
+	"architecture-poc/entity"
 )
 
 type UserDB interface {

@@ -7,9 +7,10 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/shengng325/clean-architecture/v2/common"
-	"github.com/shengng325/clean-architecture/v2/model"
-	"github.com/shengng325/clean-architecture/v2/service"
+
+	"architecture-poc/common"
+	"architecture-poc/model"
+	"architecture-poc/service"
 )
 
 type Random struct {

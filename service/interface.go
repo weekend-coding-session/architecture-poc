@@ -1,9 +1,9 @@
 package service
 
 import (
-	"github.com/shengng325/clean-architecture/v2/dto"
-	"github.com/shengng325/clean-architecture/v2/entity"
-	"github.com/shengng325/clean-architecture/v2/model"
+	"architecture-poc/dto"
+	"architecture-poc/entity"
+	"architecture-poc/model"
 )
 
 type User interface {

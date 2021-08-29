@@ -1,6 +1,6 @@
 package dto
 
-import "github.com/shengng325/clean-architecture/v2/model"
+import "architecture-poc/model"
 
 type Spot struct {
 	DisplayName string
